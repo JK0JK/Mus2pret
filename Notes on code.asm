@@ -11,7 +11,7 @@
 ;   > How am I gonna open a file I don't know how much space it will cost me?
 ;   > Can I just load part of it and keep doing that?
 ;   > Weren't the second 4 bytes the size? Why can it be 256TB if that's not a number 4 bytes can tell?
-;   > ASK MARIO CALHA HOW TO LOAD FILES YOU DON'T KNOW HOW BIG THEY CAN BE
+;   > ASK PROFESSOR HOW TO LOAD FILES YOU DON'T KNOW HOW BIG THEY CAN BE
 ; 2. Find the drumset
 ;   > Display error message if there is none
 ;   > Where are the instruments in a midi?
